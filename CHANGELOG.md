@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-30)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`4301694`](https://github.com/stdlib-js/stdlib/commit/43016945387e02d6396d33cb7134c62c977b7fd8) - **docs:** update related packages sections [(#4362)](https://github.com/stdlib-js/stdlib/pull/4362) _(by stdlib-bot)_
 -   [`2bd8dad`](https://github.com/stdlib-js/stdlib/commit/2bd8dad23915360136774f656edab87d017a2201) - **fix:** update directory name [(#2795)](https://github.com/stdlib-js/stdlib/pull/2795) _(by Gunj Joshi)_
 -   [`7b77290`](https://github.com/stdlib-js/stdlib/commit/7b7729066379e5ac5f56add760821ef1f62c6db8) - **feat:** add `constants/float32/min-base2-exponent-subnormal` [(#2750)](https://github.com/stdlib-js/stdlib/pull/2750) _(by Gunj Joshi)_
 

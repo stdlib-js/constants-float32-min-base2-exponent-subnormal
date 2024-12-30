@@ -157,6 +157,13 @@ Macro for the minimum biased base 2 exponent for a subnormal [single-precision f
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/constants-float32/min-base2-exponent`][@stdlib/constants/float32/min-base2-exponent]</span><span class="delimiter">: </span><span class="description">the minimum biased base 2 exponent for a normal single-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/min-base2-exponent-subnormal`][@stdlib/constants/float64/min-base2-exponent-subnormal]</span><span class="delimiter">: </span><span class="description">the minimum biased base 2 exponent for a subnormal double-precision floating-point number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -179,6 +186,11 @@ For more information on the project, filing bug reports and feature requests, an
 [![Chat][chat-image]][chat-url]
 
 ---
+
+## License
+
+See [LICENSE][stdlib-license].
+
 
 ## Copyright
 
@@ -226,9 +238,15 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [esm-readme]: https://github.com/stdlib-js/constants-float32-min-base2-exponent-subnormal/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/constants-float32-min-base2-exponent-subnormal/blob/main/branches.md
 
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/constants-float32-min-base2-exponent-subnormal/main/LICENSE
+
 [ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
 
 <!-- <related-links> -->
+
+[@stdlib/constants/float32/min-base2-exponent]: https://github.com/stdlib-js/constants-float32-min-base2-exponent
+
+[@stdlib/constants/float64/min-base2-exponent-subnormal]: https://github.com/stdlib-js/constants-float64-min-base2-exponent-subnormal
 
 <!-- </related-links> -->
 
